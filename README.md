@@ -1,0 +1,1 @@
+# C-code-to-check-value-of-string-using-enum-property
