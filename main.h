@@ -9,9 +9,9 @@ int main() {
 	enum Company google = GOOGLE;
 	enum Company ebay = MICROSOFT;
 
-	printf("The value of facebook is: %d\n", xerox);
+	printf("The value of facebook is: %d\n", facebook);
 	printf("The value of google is: %d\n", google);
-	printf("The value of microsoft is: %d\n", ebay);
+	printf("The value of microsoft is: %d\n", microsoft);
 
 	return 0;
 }
