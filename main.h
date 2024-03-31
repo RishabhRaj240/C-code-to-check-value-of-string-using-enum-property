@@ -5,9 +5,9 @@ int main() {
 
 	enum Company { GOOGLE, FACEBOOK, XEROX, YAHOO = 10, EBAY, MICROSOFT };
 
-	enum Company xerox = FACEBOOK;
+	enum Company facebook = FACEBOOK;
 	enum Company google = GOOGLE;
-	enum Company ebay = MICROSOFT;
+	enum Company microsoft = MICROSOFT;
 
 	printf("The value of facebook is: %d\n", facebook);
 	printf("The value of google is: %d\n", google);
@@ -15,5 +15,3 @@ int main() {
 
 	return 0;
 }
-
-
